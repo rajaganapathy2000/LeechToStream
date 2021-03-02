@@ -8,6 +8,8 @@
 ### For Support join here [InFoTelGroup](https://telegram.dog/InFoTelGroup)
 ### Working example group -->> [PROleecher](https://telegram.dog/PROleecher)
 
+### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rajaganapathy2000/LeechToStream)
 
 # Benefits :-
     ✓ Telegram Torrent/Directlink leecher with its unzipping, unrar and untar
